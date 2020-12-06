@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">File parsing</string>
+    <string name="name_find_file">Введите название файла</string>
+    <string name="find">Поиск</string>
+</resources>
